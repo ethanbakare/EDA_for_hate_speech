@@ -37,7 +37,7 @@ The dataset chosen for this task is the hatebase dataset [Davidson et al. 2017](
 
 ## Data Augmentation Method Used:
 Easy Data Augmentation are a group of 4 *simple data augmentation* techniques that are easy to implement created by [Jason Wei](https://arxiv.org/pdf/1901.11196.pdf). Listed as follows:
-<img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/eda_special.png" width height="371"/>
+<img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/EDA_tech.png" height="421"/>
 
 
 ## Model Pipeline:
