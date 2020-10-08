@@ -1,9 +1,12 @@
 # EDA_for_hate_speech
-### Summary
-Using textual data augmentation in NLP, to improve deep learning model performance on an imbalanced hate speech dataset. Tools used Python, Keras, Scikit-learn &amp; Tensorflow. 
+
+[*Running the code*](https://github.com/ethanbakare/EDA_for_hate_speech#running-the-code)
 
 
-### Key Terms
+Abstract - Using textual data augmentation in NLP, to improve deep learning model performance on an imbalanced hate speech dataset. Tools used Python, Keras, Scikit-learn &amp; Tensorflow. 
+
+
+#### Key Terms
 Data imbalance:
 > When classes in a dataset are highly unequally represented with one class being greater than other or others by a wide margin.
 
@@ -11,7 +14,7 @@ Data Augmentation:
 > Entails using available data to create additional synthetic data samples.
 
 
-### Problem
+#### Problem
 With an imbalanced dataset involving a classification task, where the minority class is essential to the problem being tackled. Abstractions learnt by the classification algorithm are skewed towards the majority class, so performance is poorer in the underrepresented class. As consequence the key performance metric is poor(the minority class)
 #### //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 ## Dataset Used:
@@ -25,11 +28,23 @@ The dataset chosen for this task is the hatebase dataset [Davidson et al. 2017](
 
 
 
-## Data Augmentation Used:
+## Data Augmentation Method Used:
 Easy Data Augmentation are a group of 4 *simple data augmentation* techniques that are easy to implement created by [Jason Wei](https://arxiv.org/pdf/1901.11196.pdf). Listed as follows:
 <img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/eda_special.png" width height="371"/>
 
-#### ///////////////////////////////////////////////////////////////////////////////
+
+## Model Pipeline:
+The LSTM model architecture consist of 6 layers: 
+1 embedding layer, 1 spatial drop out layer, a 128 neuron LSTM layer with input dropout and recurrent drop out, and 1 dense layer with relu activation function, 1 dropout layer and an output dense layer with a soft max function.
+
+<img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/model_pipeline.png" width height="420"/>
+
+
+## Results:
+<img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/model_pipeline.png" width height="420"/>
+
+
+#### //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 # Running the code.
 
