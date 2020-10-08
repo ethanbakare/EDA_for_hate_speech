@@ -36,14 +36,15 @@ Easy Data Augmentation are a group of 4 simple data augmentation techniques that
 #### ///////////////////////////////////////////////////////////////////////////////
 
 # Running the code.
-#### Please note:
-SR = Synonym Replacement, RS = Random Swap, RD = Random Deletion, RI = Random Insertion
+
 To run the code make sure you have the following :
 
-Install NLTK :
+Install NLTK
 
 Download Wordnet
 
+##### Please note:
+SR = Synonym Replacement, RS = Random Swap, RD = Random Deletion, RI = Random Insertion
 After which proceed to 
 ### Download the .ipynb file titled  '000_DA_HS' & dataset folder
 Download the .ipynb file titled 000_DA_HS.ipynb as well as the dataset folder which contains the test, val, train, and train augmented files
