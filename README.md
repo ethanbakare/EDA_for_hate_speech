@@ -4,10 +4,10 @@ Using textual data augmentation in NLP, to improve deep learning model performan
 
 
 ### Key Terms
-**Data imbalance:** 
+Data imbalance:
 > When classes in a dataset are highly unequally represented with one class being greater than other or others by a wide margin.
 
-**Data Augmentation:** 
+Data Augmentation:
 > Entails using available data to create additional synthetic data samples.
 
 
