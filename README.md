@@ -58,7 +58,7 @@ The LSTM model architecture consist of 6 layers:
 
 
 ## Results:
-<img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/Screenshot%202020-10-08%20at%2017.08.08.png" width="500"/>
+<img src="hhttps://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/we23.png" height="420"/>
 
 
 
