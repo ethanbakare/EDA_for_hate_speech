@@ -1,5 +1,25 @@
 # EDA_for_hate_speech
-Using textual data augmentation in NLP, to explore deep learning model performance on an imbalanced hate speech dataset. Tools used Python, Keras, Scikit-learn &amp; Tensorflow. 
+#### Summary
+Using textual data augmentation in NLP, to improve deep learning model performance on an imbalanced hate speech dataset. Tools used Python, Keras, Scikit-learn &amp; Tensorflow. 
+
+
+#### Key Terms
+Data imbalance: When classes in a dataset are highly unequally represented with one class being greater than other or others by a wide margin.
+
+Data Augmentation: Entails using available data to create additional synthetic data samples.
+
+
+#### Problem
+With an imbalanced dataset involving a classification task, where the minority class is essential to the problem being tackled. Abstractions learnt by the classification algorithm are skewed towards the majority class, so performance is poorer in the underrepresented class. As consequence the key performance metric is poor(the minority class)
+#### //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+## Dataset Used:
+The dataset chosen for this task is the hatebase dataset [Davidson et al. 2017](https://arxiv.org/abs/1703.04009) this imbalanced dataset was annotated by crowd flower from a random sample 25,000 tweets. It consists of three classes
+
+##### Hate - 0
+##### Offensive - 1
+##### Neither - 2
+
+<img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/data%20set.png" width height="300"/>
 
 
 
@@ -9,15 +29,15 @@ Using textual data augmentation in NLP, to explore deep learning model performan
 
 
 
-
-
-### Please note:
-HS = Hate speech, SR = Synonym Replacement, RS = Random Swap, RD = Random Deletion, RI = Random Insertion, DA = Data
+## Data Augmentation Used:
+Easy Data Augmentation are a group of 4 simple data augmentation techniques that are easy to implement created by [Jason Wei](https://arxiv.org/pdf/1901.11196.pdf). Listed as follows:
+<img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/eda_special.png" width height="371"/>
 
 #### ///////////////////////////////////////////////////////////////////////////////
 
 # Running the code.
-
+### Please note:
+SR = Synonym Replacement, RS = Random Swap, RD = Random Deletion, RI = Random Insertion
 To run the code make sure you have the following :
 
 Install NLTK :
@@ -51,6 +71,8 @@ Click run till you reach the code block for training and observe the results. To
 # Running code with Augmented datasets?
 There are 15 concatenated combinations made on on the four EDA techniques, with these techniques, as such we have 15 augmented training dataset. They are grouped by number of augmentations performed each seperated with a comma(,). They are listed as follows
 
+<img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/data_creation.png" width height="300"/>
+
 ### Single Augmentation
 SR, RS, RD, RI
 
@@ -66,3 +88,10 @@ SR_RS_RD, SR_RS_RI, SR_RI_RD, RI_RS_RD, SR_RS_RD_RI
 ### Please note each augmented train data has the term "train_hs" before its corresponding name
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+<img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/Screenshot%202020-10-08%20at%2017.08.08.png" width height="600"/>
+
+
+
