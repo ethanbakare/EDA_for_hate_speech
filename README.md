@@ -37,6 +37,16 @@ The dataset chosen for this task is the hatebase dataset [Davidson et al. 2017](
 
 ## Data Augmentation Method Used:
 Easy Data Augmentation are a group of 4 *simple data augmentation* techniques that are easy to implement created by [Jason Wei](https://arxiv.org/pdf/1901.11196.pdf). Listed as follows:
+
+**Synonym Replacement (SR):** Goes through each sentence, selects a number of words “n”  (not stop words) at random Replaces each selected word with one of its own random synonyms.
+
+**Random Swap (RS):** It iterates through each sentence selecting two words randomly and swapping their positions, this is done “n” times.
+
+**Random Deletion (RD):** It goes through each sentence in the corpus, with a probability “p” each word in the sentence is removed or not based based on “p”.
+
+**Random Insertion (RI):** Goes through each sentence, selecting a number of words “n” (not stop words) at random and adding a synonym of each selected word at random positions in the sentence.
+
+
 <img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/EDA_tech.png" height="421"/>
 
 
