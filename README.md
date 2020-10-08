@@ -112,19 +112,12 @@ SR_RS_RD, SR_RS_RI, SR_RI_RD, RI_RS_RD, SR_RS_RD_RI
 ## Results Obtained:
 Comparing the results obtained using the baseline and augmented datasets using a variety of performance metrics
 
-
 <img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/we23.png" height="700">
 
+
 Fig 1: F1 Score Single Augmentation 
-<img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/1STY.png" width="400">
 
-
-Fig 2: F1 Score Double Augmentation 
-<img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/2STY.png" width="400">
-
-
-Fig 3: F1 Score Third or more Augmentation 
-<img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/3STY.png" width="400">
+<img align="left" img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/1STY.png" width="400">
 
 
 
