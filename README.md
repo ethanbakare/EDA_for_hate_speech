@@ -1,30 +1,32 @@
 # EDA_for_hate_speech
-#### Summary
+### Summary
 Using textual data augmentation in NLP, to improve deep learning model performance on an imbalanced hate speech dataset. Tools used Python, Keras, Scikit-learn &amp; Tensorflow. 
 
 
-#### Key Terms
-**Data imbalance:** When classes in a dataset are highly unequally represented with one class being greater than other or others by a wide margin.
+### Key Terms
+**Data imbalance:** 
+> When classes in a dataset are highly unequally represented with one class being greater than other or others by a wide margin.
 
-**Data Augmentation:** Entails using available data to create additional synthetic data samples.
+**Data Augmentation:** 
+> Entails using available data to create additional synthetic data samples.
 
 
-#### Problem
+### Problem
 With an imbalanced dataset involving a classification task, where the minority class is essential to the problem being tackled. Abstractions learnt by the classification algorithm are skewed towards the majority class, so performance is poorer in the underrepresented class. As consequence the key performance metric is poor(the minority class)
 #### //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 ## Dataset Used:
 The dataset chosen for this task is the hatebase dataset [Davidson et al. 2017](https://arxiv.org/abs/1703.04009) this imbalanced dataset was annotated by crowd flower from a random sample 25,000 tweets. It consists of three classes
 
-##### Hate - 0
-##### Offensive - 1
-##### Neither - 2
+* **Hate - 0**
+* **Offensive - 1**
+* **Neither - 2**
 
 <img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/data%20set.png" width height="300"/>
 
 
 
 ## Data Augmentation Used:
-Easy Data Augmentation are a group of 4 simple data augmentation techniques that are easy to implement created by [Jason Wei](https://arxiv.org/pdf/1901.11196.pdf). Listed as follows:
+Easy Data Augmentation are a group of 4 *simple data augmentation* techniques that are easy to implement created by [Jason Wei](https://arxiv.org/pdf/1901.11196.pdf). Listed as follows:
 <img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/eda_special.png" width height="371"/>
 
 #### ///////////////////////////////////////////////////////////////////////////////
