@@ -47,7 +47,7 @@ Easy Data Augmentation are a group of 4 *simple data augmentation* techniques th
 **Random Insertion (RI):** Goes through each sentence, selecting a number of words “n” (not stop words) at random and adding a synonym of each selected word at random positions in the sentence.
 
 
-<img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/EDA_tech.png" height="421"/>
+<img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/EDA_tech.png" height="400"/>
 
 
 ## Model Pipeline:
