@@ -4,7 +4,7 @@ Abstract - Using textual data augmentation in NLP, to improve deep learning mode
 Quick links
 * [*Running the code*](https://github.com/ethanbakare/EDA_for_hate_speech#running-the-code)
 
-* [Dataset Used](https://github.com/ethanbakare/EDA_for_hate_speech#dataset-used)
+* [*Dataset Used*](https://github.com/ethanbakare/EDA_for_hate_speech#dataset-used)
 
 * [*Data Augmentation Method Used*](https://github.com/ethanbakare/EDA_for_hate_speech#data-augmentation-method-used)
 
