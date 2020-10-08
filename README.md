@@ -4,7 +4,7 @@ Quick links
 
 * [Dataset Used](https://github.com/ethanbakare/EDA_for_hate_speech#dataset-used)
 
-* [*Data Augmentation Method Used*](https://github.com/ethanbakare/EDA_for_hate_speech#running-the-code)
+* [*Data Augmentation Method Used*](https://github.com/ethanbakare/EDA_for_hate_speech#data-augmentation-method-used)
 
 * [*Running the code*](https://github.com/ethanbakare/EDA_for_hate_speech#running-the-code)
 
