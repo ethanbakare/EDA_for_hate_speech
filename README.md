@@ -36,7 +36,7 @@ Easy Data Augmentation are a group of 4 simple data augmentation techniques that
 #### ///////////////////////////////////////////////////////////////////////////////
 
 # Running the code.
-### Please note:
+#### Please note:
 SR = Synonym Replacement, RS = Random Swap, RD = Random Deletion, RI = Random Insertion
 To run the code make sure you have the following :
 
@@ -45,26 +45,19 @@ Install NLTK :
 Download Wordnet
 
 After which proceed to 
-### Download the .ipynb file titled  000_DA_HS 
-Download the .ipynb file titled 000_DA_HS.ipynb
-
-
-### Download the dataset folder
-Download the dataset folder which contains the test, val, train, and train augmeneted files
+### Download the .ipynb file titled  '000_DA_HS' & dataset folder
+Download the .ipynb file titled 000_DA_HS.ipynb as well as the dataset folder which contains the test, val, train, and train augmented files
 
 
 ### Open the 000_DA_HS.ipynb 
-Open 000_DA_HS.ipynb proceed to the second block of code to change the address for the test, validation and (train data - choose smaple of choice) 
+Open 000_DA_HS.ipynb proceed to the second block of code to change the address for the test, validation and (train data - choose sample of choice) 
+
 The source test, validation and train data are titled:
 
-#### Test = test_data_hs
-
-#### Train = train_data_hs
-
-#### Validation = val_data_hs
+#### Test = test_data_hs    |   Train = train_data_hs   |    Validation = val_data_hs
 
 ### Run the 000_DA_HS.ipynb code file
-Click run till you reach the code block for training and observe the results. To run a differnt dataset all you do id change the address for the train data on the second line in the code
+Click run till you reach the code block for training and observe the results. To run a differnt dataset all you do is change the address for the train data on the second line in the code
 
 
 
