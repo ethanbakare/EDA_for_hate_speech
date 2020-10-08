@@ -31,7 +31,7 @@ The dataset chosen for this task is the hatebase dataset [Davidson et al. 2017](
 * **Offensive - 1**
 * **Neither - 2**
 
-<img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/data%20set.png" width = "453" height="300"/>
+<img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/data%20set.png" width = "300"/>
 
 
 
