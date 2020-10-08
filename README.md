@@ -8,9 +8,9 @@ Quick links
 
 * [*Data Augmentation Method Used*](https://github.com/ethanbakare/EDA_for_hate_speech#data-augmentation-method-used)
 
-* [*Running the code*](https://github.com/ethanbakare/EDA_for_hate_speech#running-the-code)
+* [*Model Pipeline*](https://github.com/ethanbakare/EDA_for_hate_speech#model-pipeline)
 
-* [*Running the code*](https://github.com/ethanbakare/EDA_for_hate_speech#running-the-code)
+* [*Results Obtained*](https://github.com/ethanbakare/EDA_for_hate_speech#results-obtained)
 
 
 #### Key Terms
