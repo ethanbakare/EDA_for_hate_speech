@@ -4,9 +4,9 @@ Using textual data augmentation in NLP, to improve deep learning model performan
 
 
 #### Key Terms
-Data imbalance: When classes in a dataset are highly unequally represented with one class being greater than other or others by a wide margin.
+**Data imbalance:** When classes in a dataset are highly unequally represented with one class being greater than other or others by a wide margin.
 
-Data Augmentation: Entails using available data to create additional synthetic data samples.
+**Data Augmentation:** Entails using available data to create additional synthetic data samples.
 
 
 #### Problem
@@ -20,12 +20,6 @@ The dataset chosen for this task is the hatebase dataset [Davidson et al. 2017](
 ##### Neither - 2
 
 <img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/data%20set.png" width height="300"/>
-
-
-
-
-
-
 
 
 
@@ -43,8 +37,8 @@ Install NLTK
 
 Download Wordnet
 
-##### Please note:
-SR = Synonym Replacement, RS = Random Swap, RD = Random Deletion, RI = Random Insertion
+**Please note:** SR = Synonym Replacement, RS = Random Swap, RD = Random Deletion, RI = Random Insertion
+
 After which proceed to 
 ### Download the .ipynb file titled  '000_DA_HS' & dataset folder
 Download the .ipynb file titled 000_DA_HS.ipynb as well as the dataset folder which contains the test, val, train, and train augmented files
@@ -55,10 +49,10 @@ Open 000_DA_HS.ipynb proceed to the second block of code to change the address f
 
 The source test, validation and train data are titled:
 
-#### Test = test_data_hs    |   Train = train_data_hs   |    Validation = val_data_hs
+ Test = **test_data_hs**    |   Train = **train_data_hs**   |    Validation = **val_data_hs**
 
 ### Run the 000_DA_HS.ipynb code file
-Click run till you reach the code block for training and observe the results. To run a differnt dataset all you do is change the address for the train data on the second line in the code
+Click run till you reach the code block for training and observe the results. To run a different dataset all you do is change the address for the train data on the second line in the code
 
 
 
