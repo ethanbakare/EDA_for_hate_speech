@@ -116,17 +116,16 @@ Comparing the results obtained using the baseline and augmented datasets using a
 <img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/we23.png" height="700">
 
 
-
 <img align="left" img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/1STY.png" width="400">
-Figure 1: F1 Score Single Augmentation 
+Fig 1: F1 Score Single Augmentation 
 
 
 <img align="left" img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/2STY.png" width="400">
-Figure 2: F1 Score Double Augmentation 
+Fig 2: F1 Score Double Augmentation 
 
 
 <img align="left" img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/3STY.png" width="400">
-Figure 3: F1 Score Third or more Augmentation 
+Fig 3: F1 Score Third or more Augmentation 
 
 
 
