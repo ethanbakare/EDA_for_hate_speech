@@ -1,7 +1,14 @@
 # EDA_for_hate_speech
+Quick links
+* [*Running the code*](https://github.com/ethanbakare/EDA_for_hate_speech#running-the-code)
 
-[*Running the code*](https://github.com/ethanbakare/EDA_for_hate_speech#running-the-code)
+* [Dataset Used](https://github.com/ethanbakare/EDA_for_hate_speech#dataset-used)
 
+* [*Data Augmentation Method Used*](https://github.com/ethanbakare/EDA_for_hate_speech#running-the-code)
+
+* [*Running the code*](https://github.com/ethanbakare/EDA_for_hate_speech#running-the-code)
+
+* [*Running the code*](https://github.com/ethanbakare/EDA_for_hate_speech#running-the-code)
 
 Abstract - Using textual data augmentation in NLP, to improve deep learning model performance on an imbalanced hate speech dataset. Tools used Python, Keras, Scikit-learn &amp; Tensorflow. 
 
