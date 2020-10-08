@@ -1,4 +1,6 @@
 # EDA_for_hate_speech
+Abstract - Using textual data augmentation in NLP, to improve deep learning model performance on an imbalanced hate speech dataset. Tools used Python, Keras, Scikit-learn &amp; Tensorflow. 
+
 Quick links
 * [*Running the code*](https://github.com/ethanbakare/EDA_for_hate_speech#running-the-code)
 
@@ -9,8 +11,6 @@ Quick links
 * [*Running the code*](https://github.com/ethanbakare/EDA_for_hate_speech#running-the-code)
 
 * [*Running the code*](https://github.com/ethanbakare/EDA_for_hate_speech#running-the-code)
-
-Abstract - Using textual data augmentation in NLP, to improve deep learning model performance on an imbalanced hate speech dataset. Tools used Python, Keras, Scikit-learn &amp; Tensorflow. 
 
 
 #### Key Terms
@@ -58,7 +58,8 @@ The LSTM model architecture consist of 6 layers:
 
 
 ## Results:
-<img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/model_pipeline.png" width height="420"/>
+<img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/Screenshot%202020-10-08%20at%2017.08.08.png" width="500"/>
+
 
 
 #### //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -113,7 +114,6 @@ SR_RS_RD, SR_RS_RI, SR_RI_RD, RI_RS_RD, SR_RS_RD_RI
 
 
 
-<img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/Screenshot%202020-10-08%20at%2017.08.08.png" width height="600"/>
 
 
 
