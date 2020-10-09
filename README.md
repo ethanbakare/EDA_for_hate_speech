@@ -68,7 +68,7 @@ Install NLTK
 
 Download Wordnet
 
-**Please note:** SR = Synonym Replacement, RS = Random Swap, RD = Random Deletion, RI = Random Insertion
+**Please note:** SR = Synonym Replacement, RS = Random Swap, RD = Random Deletion, RI = Random Insertion, DA = Dataset, HS = Hate Speech
 
 After which proceed to 
 ### Download the .ipynb file titled  '000_DA_HS' & dataset folder
