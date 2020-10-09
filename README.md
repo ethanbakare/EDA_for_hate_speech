@@ -72,7 +72,7 @@ Download Wordnet
 
 After which proceed to 
 ### Download the .ipynb file titled  '000_DA_HS' & dataset folder
-Download the .ipynb file titled 000_DA_HS.ipynb as well as the dataset folder which contains the test, val, train, and train augmented files
+Download the .ipynb file titled '000_DA_HS.ipynb' in the code. Also download the dataset folder which contains the test, val, train, and train augmented files
 
 
 ### Open the 000_DA_HS.ipynb 
