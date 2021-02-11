@@ -113,8 +113,10 @@ SR_RS_RD, SR_RS_RI, SR_RI_RD, RI_RS_RD, SR_RS_RD_RI
 Comparing the results obtained using the baseline dataset and the other augmented datasets using a variety of performance metrics(accuracy, precision,recall, F1 Score, Hate Recall)
 
 Best percentage improvement (base line dataset versus top perfroming dataset) in each metric category
+
 <img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/we23.png" height="700">
 
 Overall table of metric performance 
+
 <img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/resultss.png" height="300">
 
