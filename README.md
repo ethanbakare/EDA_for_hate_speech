@@ -88,7 +88,7 @@ Click run till you reach the code block for training and observe the results. To
 
 
 # Running code with Augmented datasets?
-There are 15 concatenated combinations made on on the four EDA techniques, with these techniques, as such we have 15 augmented training dataset. They are grouped by number of augmentations performed each seperated with a comma(,). They are listed as follows
+There are 15 concatenated combinations made based on the four EDA techniques, as such we have 15 augmented training dataset. They are grouped by number of augmentations performed each seperated with a comma(,). They are listed as follows
 
 <img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/data_creation.png" width height="300"/>
 
