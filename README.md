@@ -110,8 +110,8 @@ SR_RS_RD, SR_RS_RI, SR_RI_RD, RI_RS_RD, SR_RS_RD_RI
 
 
 ## Results Obtained:
-Comparing the results obtained using the baseline and augmented datasets using a variety of performance metrics
+Comparing the results obtained using the baseline dataset and the other augmented datasets using a variety of performance metrics(accuracy, precision,recall, F1 Score, Hate Recall)
 
 <img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/we23.png" height="700">
-
+<img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/resultss.png" height="300">
 
