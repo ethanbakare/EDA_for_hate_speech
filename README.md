@@ -116,7 +116,7 @@ Best percentage improvement (base line dataset versus top perfroming dataset) in
 
 <img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/we23.png" height="700">
 
-Overall table of metric performance 
+Overall table of metric performance: 
 
 <img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/resultss.png" height="300">
 
