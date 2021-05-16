@@ -120,3 +120,11 @@ Overall table of metric performance
 
 <img src="https://github.com/ethanbakare/EDA_for_hate_speech/blob/master/images/resultss.png" height="300">
 
+Findings from metric performance:
+
+* Correlation between high accuracy and low hate recall
+* Correlation between high precision + high recall and high F1 score
+* Correlation between RD and high hate recall
+* Correlation between RI and low hate recall
+* Reduction in the rate of improvement from augmentation class method to another
+
